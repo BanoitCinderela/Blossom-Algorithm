@@ -4,16 +4,12 @@
  *
  * Funcionalidades:
  *  - Le grafo de arquivo texto (vertices e arestas)
- *  - Encontra emparelhamento maximo em grafo geral
+ *  - Encontra emparelhamento maximo em grafo 
+ * geral
  *  - Salva resultado em arquivo texto
  */
 
-#include <iostream>
-#include <fstream>
-#include <vector>
-#include <queue>
-#include <map>
-#include <string>
+#include <bits/stdc++.h>
 using namespace std;
 
 // =============================================
